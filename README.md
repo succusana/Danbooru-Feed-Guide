@@ -8,7 +8,7 @@
 
 3. In the feed URL box, put ``https://safebooru.donmai.us/posts.atom?tags=[insert up to 2 tags separated by a + here]``.  Example: ``https://safeborru.donmai.us/posts.atom?tags=touhou+elly``
 
- 3.5. If you want an NSFW feed instead, put ``http://danbooru.donmai.us/posts.atom?tags=[insert 1 tag here]+-rating%3Asafe``.  Example: ``http://danbooru.donmai.us/posts.atom?tags=elly+-rating%3Asafe``
+  3.5. If you want an NSFW feed instead, put ``http://danbooru.donmai.us/posts.atom?tags=[insert 1 tag here]+-rating%3Asafe``.  Example: ``http://danbooru.donmai.us/posts.atom?tags=elly+-rating%3Asafe``
 
 4. For the action, select Webhooks and then Make a Web Request.
 
